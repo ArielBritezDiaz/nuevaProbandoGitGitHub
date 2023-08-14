@@ -14,4 +14,4 @@ ruta (GitHub CLI): gh repo clone ArielBritezDiaz/probandoGitGithub
 
 - git remote set-url origin (https://URL del nuevo repositorio): Para cambiar la url de un proyecto clonado o cuando por alguna razón los borre de GitHub
 
-.
+- 
